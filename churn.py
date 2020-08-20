@@ -1,4 +1,4 @@
-<------------------------------------Churn Prediction Using Keras--------------------->>>>>>>>>
+<<<<<<<<<<------------------------------------Churn Prediction Using Keras--------------------->>>>>>>>>
 
 #Importing Libraries
 import pandas as pd
